@@ -2,13 +2,17 @@
 
 0.10416666666666667
 0.6875
+---
+
 [[ 0  0  0  0  0  0]
  [ 0  0  0  0  0  0]
  [ 0  0  0  0  0  0]
  [ 0  0  0  0  0  0]
  [ 0  0  0  0  0  0]
  [ 7 11  9  9  7  5]]
-              precision    recall  f1-score   support
+ 
+ ---
+          calss |  precision |   recall |  f1-score |  support
 
      canvas1       0.57      0.50      0.53         8
     cushion1       0.82      0.75      0.78        12
