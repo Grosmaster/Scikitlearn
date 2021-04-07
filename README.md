@@ -1,5 +1,5 @@
 # Result
-`
+```
 acc SVC: 0.10416666666666667
 acc KNN: 0.6875
 
@@ -27,4 +27,4 @@ acc KNN: 0.6875
     accuracy                           0.69        48
    macro avg       0.67      0.67      0.66        48
 weighted avg       0.71      0.69      0.69        48
-`
+```
