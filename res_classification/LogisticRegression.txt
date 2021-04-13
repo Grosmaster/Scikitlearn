@@ -1,0 +1,25 @@
+LogisticRegression
+
+confusion_matrix LogisticRegression
+
+[[4 2 0 1 1 0]
+ [2 5 0 0 0 0]
+ [0 0 9 1 0 0]
+ [0 4 0 3 0 1]
+ [1 0 0 0 6 0]
+ [0 0 0 4 0 4]]
+
+classification_report LogisticRegression
+
+              precision    recall  f1-score   support
+
+     canvas1       0.57      0.50      0.53         8
+    cushion1       0.45      0.71      0.56         7
+  linsseeds1       1.00      0.90      0.95        10
+       sand1       0.33      0.38      0.35         8
+       seat2       0.86      0.86      0.86         7
+      stone1       0.80      0.50      0.62         8
+
+    accuracy                           0.65        48
+   macro avg       0.67      0.64      0.64        48
+weighted avg       0.68      0.65      0.65        48

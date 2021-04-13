@@ -1,0 +1,25 @@
+RandomForest RFE-10
+
+confusion_matrix RandomForest RFE-10
+
+[[7 0 0 0 1 0]
+ [0 9 0 0 0 0]
+ [0 0 9 1 0 0]
+ [0 0 0 7 0 0]
+ [0 0 0 0 6 0]
+ [0 2 0 1 0 5]]
+
+classification_report RandomForest RFE-10
+
+              precision    recall  f1-score   support
+
+     canvas1       1.00      0.88      0.93         8
+    cushion1       0.82      1.00      0.90         9
+  linsseeds1       1.00      0.90      0.95        10
+       sand1       0.78      1.00      0.88         7
+       seat2       0.86      1.00      0.92         6
+      stone1       1.00      0.62      0.77         8
+
+    accuracy                           0.90        48
+   macro avg       0.91      0.90      0.89        48
+weighted avg       0.92      0.90      0.89        48

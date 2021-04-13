@@ -1,0 +1,149 @@
+acc KNeighborsClassifier: 0.6875
+f1_score macro KNeighborsClassifier: 0.6641954663693793
+f1_score micro KNeighborsClassifier: 0.6875
+f1_score weighted KNeighborsClassifier: 0.6911115756224451
+
+acc LogisticRegression: 0.6458333333333334
+f1_score macro LogisticRegression: 0.6436209931565969
+f1_score micro LogisticRegression: 0.6458333333333334
+f1_score weighted LogisticRegression: 0.6536634604359063
+
+acc RandomForest: 0.9166666666666666
+f1_score macro RandomForest: 0.9163535810594635
+f1_score micro RandomForest: 0.9166666666666666
+f1_score weighted RandomForest: 0.9176647698706523
+
+acc RandomForest RFE-10: 0.8958333333333334
+f1_score macro RandomForest RFE-10: 0.8913349077822762
+f1_score micro RandomForest RFE-10: 0.8958333333333334
+f1_score weighted RandomForest RFE-10: 0.8928678868645975
+
+acc RandomForest RFE-20: 0.9375
+f1_score macro RandomForest RFE-20: 0.934873949579832
+f1_score micro RandomForest RFE-20: 0.9375
+f1_score weighted RandomForest RFE-20: 0.9363620448179272
+
+acc RandomForest RFE-30: 0.875
+f1_score macro RandomForest RFE-30: 0.8668091168091169
+f1_score micro RandomForest RFE-30: 0.875
+f1_score weighted RandomForest RFE-30: 0.8702457264957264
+
+acc RandomForest RFE-40: 0.9375
+f1_score macro RandomForest RFE-40: 0.9344618344618345
+f1_score micro RandomForest RFE-40: 0.9375
+f1_score weighted RandomForest RFE-40: 0.9371558996558997
+
+acc RandomForest RFE-50: 0.9375
+f1_score macro RandomForest RFE-50: 0.9387282823815332
+f1_score micro RandomForest RFE-50: 0.9375
+f1_score weighted RandomForest RFE-50: 0.9383390517291446
+
+acc RandomForest RFE-60: 0.9375
+f1_score macro RandomForest RFE-60: 0.9274572649572649
+f1_score micro RandomForest RFE-60: 0.9375
+f1_score weighted RandomForest RFE-60: 0.9367387820512821
+
+acc RandomForest RFE-70: 0.9375
+f1_score macro RandomForest RFE-70: 0.9316425120772945
+f1_score micro RandomForest RFE-70: 0.9375
+f1_score weighted RandomForest RFE-70: 0.9398248792270532
+
+acc RandomForest RFE-80: 0.9375
+f1_score macro RandomForest RFE-80: 0.9328371507719334
+f1_score micro RandomForest RFE-80: 0.9375
+f1_score weighted RandomForest RFE-80: 0.93881113602581
+
+acc RandomForest RFE-90: 0.9375
+f1_score macro RandomForest RFE-90: 0.9316425120772945
+f1_score micro RandomForest RFE-90: 0.9375
+f1_score weighted RandomForest RFE-90: 0.9398248792270532
+
+acc RandomForest RFE-100: 0.9583333333333334
+f1_score macro RandomForest RFE-100: 0.9567687747035573
+f1_score micro RandomForest RFE-100: 0.9583333333333334
+f1_score weighted RandomForest RFE-100: 0.9595376317523057
+
+acc RandomForest RFE-110: 0.9375
+f1_score macro RandomForest RFE-110: 0.9328371507719334
+f1_score micro RandomForest RFE-110: 0.9375
+f1_score weighted RandomForest RFE-110: 0.93881113602581
+
+acc RandomForest RFE-120: 0.8958333333333334
+f1_score macro RandomForest RFE-120: 0.884023464458247
+f1_score micro RandomForest RFE-120: 0.8958333333333334
+f1_score weighted RandomForest RFE-120: 0.8981582125603865
+
+acc RandomForest RFE-130: 0.9166666666666666
+f1_score macro RandomForest RFE-130: 0.9136946386946386
+f1_score micro RandomForest RFE-130: 0.9166666666666666
+f1_score weighted RandomForest RFE-130: 0.9203404234654234
+
+acc RandomForest RFE-140: 0.9166666666666666
+f1_score macro RandomForest RFE-140: 0.9077108881456707
+f1_score micro RandomForest RFE-140: 0.9166666666666666
+f1_score weighted RandomForest RFE-140: 0.9190983835005575
+
+acc RandomForest RFE-150: 0.8958333333333334
+f1_score macro RandomForest RFE-150: 0.8805860805860806
+f1_score micro RandomForest RFE-150: 0.8958333333333334
+f1_score weighted RandomForest RFE-150: 0.8948717948717948
+
+acc RandomForest RFE-160: 0.9166666666666666
+f1_score macro RandomForest RFE-160: 0.9077108881456707
+f1_score micro RandomForest RFE-160: 0.9166666666666666
+f1_score weighted RandomForest RFE-160: 0.9190983835005575
+
+acc RandomForest RFE-170: 0.8958333333333334
+f1_score macro RandomForest RFE-170: 0.8900072150072149
+f1_score micro RandomForest RFE-170: 0.8958333333333334
+f1_score weighted RandomForest RFE-170: 0.8994002525252526
+
+acc RandomForest RFE-180: 0.9375
+f1_score macro RandomForest RFE-180: 0.9328371507719334
+f1_score micro RandomForest RFE-180: 0.9375
+f1_score weighted RandomForest RFE-180: 0.93881113602581
+
+acc RandomForest RFE-190: 0.9166666666666666
+f1_score macro RandomForest RFE-190: 0.9077108881456707
+f1_score micro RandomForest RFE-190: 0.9166666666666666
+f1_score weighted RandomForest RFE-190: 0.9190983835005575
+
+acc RandomForest RFE-200: 0.9583333333333334
+f1_score macro RandomForest RFE-200: 0.9567687747035573
+f1_score micro RandomForest RFE-200: 0.9583333333333334
+f1_score weighted RandomForest RFE-200: 0.9595376317523057
+
+acc RandomForest RFE-210: 0.9375
+f1_score macro RandomForest RFE-210: 0.9376262626262627
+f1_score micro RandomForest RFE-210: 0.9375
+f1_score weighted RandomForest RFE-210: 0.9410669191919192
+
+acc RandomForest RFE-220: 0.8958333333333334
+f1_score macro RandomForest RFE-220: 0.8867826617826617
+f1_score micro RandomForest RFE-220: 0.8958333333333334
+f1_score weighted RandomForest RFE-220: 0.9026365995115996
+
+acc RandomForest RFE-230: 0.9166666666666666
+f1_score macro RandomForest RFE-230: 0.9136946386946386
+f1_score micro RandomForest RFE-230: 0.9166666666666666
+f1_score weighted RandomForest RFE-230: 0.9203404234654234
+
+acc RandomForest RFE-240: 0.8958333333333334
+f1_score macro RandomForest RFE-240: 0.8867826617826617
+f1_score micro RandomForest RFE-240: 0.8958333333333334
+f1_score weighted RandomForest RFE-240: 0.9026365995115996
+
+acc RandomForest RFE-250: 0.8958333333333334
+f1_score macro RandomForest RFE-250: 0.8867826617826617
+f1_score micro RandomForest RFE-250: 0.8958333333333334
+f1_score weighted RandomForest RFE-250: 0.9026365995115996
+
+acc RandomForest RFE-260: 0.8958333333333334
+f1_score macro RandomForest RFE-260: 0.8827414131761958
+f1_score micro RandomForest RFE-260: 0.8958333333333334
+f1_score weighted RandomForest RFE-260: 0.9001804958326698
+
+acc RandomForest RFE-270: 0.9166666666666666
+f1_score macro RandomForest RFE-270: 0.9077108881456707
+f1_score micro RandomForest RFE-270: 0.9166666666666666
+f1_score weighted RandomForest RFE-270: 0.9190983835005575
